@@ -9,6 +9,7 @@ return {
         "css",
         "dockerfile",
         "gitignore",
+        "javascript",
         "http",
         "ninja",
         "python",
@@ -16,6 +17,10 @@ return {
         "ruby",
         "toml",
         "sql",
+        "tsx",
+        "typescript",
+        "vim",
+        "vimdoc",
       },
       config = function(_, opts)
         require("nvim-treesitter.configs").setup(opts)
