@@ -1,17 +1,9 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.copilot",
-    "lazyvim.plugins.extras.formatting.black",
-    "lazyvim.plugins.extras.lang.clangd",
-    "lazyvim.plugins.extras.lang.cmake",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.lang.ruby",
-    "lazyvim.plugins.extras.lang.rust",
-    "lazyvim.plugins.extras.lang.terraform",
-    "lazyvim.plugins.extras.lazyrc"
+
   ],
   "news": {
-    "NEWS.md": "3314"
+    "NEWS.md": "10960"
   },
-  "version": 3
+  "version": 8
 }
